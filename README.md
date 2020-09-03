@@ -1,4 +1,4 @@
-Pick Things Up and Put Them Down
+# Pick Things Up and Put Them Down
 
 ## Project Description
 
@@ -6,20 +6,20 @@ My app is a library of some of the most common exercises, for specific muscle gr
 
 ## Wireframes
 
-## Landing Page
+### Landing Page
 ![Screen Shot 2020-09-03 at 12 16 28 PM](https://user-images.githubusercontent.com/67292452/92140611-56ebb800-eddf-11ea-810c-8cb43f934284.png)
 
 
-## Landing Page after selecting muscle group
+### Landing Page after selecting muscle group
 ![Screen Shot 2020-09-03 at 12 17 42 PM](https://user-images.githubusercontent.com/67292452/92140737-7f73b200-eddf-11ea-95be-86cdf7f3cf30.png)
 
-## Landing Page after selecting specific workout
+### Landing Page after selecting specific workout
 ![Screen Shot 2020-09-03 at 12 18 23 PM](https://user-images.githubusercontent.com/67292452/92140825-9a462680-eddf-11ea-97d4-407177014da6.png)
 
-## Landing Page - Motivation
+### Landing Page - Motivation
 ![Screen Shot 2020-09-03 at 12 19 03 PM](https://user-images.githubusercontent.com/67292452/92140872-ae8a2380-eddf-11ea-82f7-b0c410fbb0f5.png)
 
-## Landing Page - Workouts
+### Landing Page - Workouts
 ![Screen Shot 2020-09-03 at 12 19 41 PM](https://user-images.githubusercontent.com/67292452/92140938-c497e400-eddf-11ea-93d5-8250691755a6.png)
 
 ## Workout Model - STILL THINKING THROUGH AT THIS TIME
@@ -35,14 +35,14 @@ My app is a library of some of the most common exercises, for specific muscle gr
 
 
 
-### MVP User Stories
+## MVP User Stories
 
 _As a user, I want to be able to click on the muscle group, bringing me to that specific muscle group page.
 _As a user, I want to clearly be able to see a variety of workouts for each muscle group. 
 _As a user, I want to be able to add and remove workouts/ exercises
 _As a user, I would like to be able to easily navigate the application.
 
-_**MVP Stretch Goals**_
+## MVP Stretch Goals
 
 _As devs, I want to be able to create a user profile.
 _As devs, I  want to have a search function, to see if a specific workout is already in the library.
