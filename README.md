@@ -37,17 +37,17 @@ My app is a library of some of the most common exercises, for specific muscle gr
 
 ### MVP User Stories
 
-_As a user, I want to be able to click on the muscle group, bringing me to that specific muscle group page.
-_As a user, I want to clearly be able to see a variety of workouts for each muscle group. 
-_As a user, I want to be able to add and remove workouts/ exercises
-_As a user, I would like to be able to easily navigate the application.
+- _As a user, I want to be able to click on the muscle group, bringing me to that specific muscle group page.
+- _As a user, I want to clearly be able to see a variety of workouts for each muscle group. 
+- _As a user, I want to be able to add and remove workouts/ exercises
+- _As a user, I would like to be able to easily navigate the application.
 
 _**MVP Stretch Goals**_
 
-_As devs, I want to be able to create a user profile.
-_As devs, I  want to have a search function, to see if a specific workout is already in the library.
-_As devs, I want their to be audio when making a selction
-_As devs, I would like the user to be able to create a profile
-_As devs, I would like the user to be able to track their progress
-_As devs, we would like to have a library of over 100 exercises
-_As devs, we would like to add a filter function.
+- _As devs, I want to be able to create a user profile.
+- _As devs, I  want to have a search function, to see if a specific workout is already in the library.
+- _As devs, I want their to be audio when making a selction
+- _As devs, I would like the user to be able to create a profile
+- _As devs, I would like the user to be able to track their progress
+- _As devs, we would like to have a library of over 100 exercises
+- _As devs, we would like to add a filter function.
